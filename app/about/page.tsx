@@ -31,7 +31,7 @@ const About = () => {
         {/* Company Image */}
         <div className="flex justify-center">
           <Image
-            src="/kantor.JFIF"
+            src="/kantor.jpg"
             alt="Company Image"
             width={500}
             height={500}
